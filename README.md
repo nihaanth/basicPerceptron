@@ -1,0 +1,2 @@
+# basicPerceptron
+basic perceptron code
